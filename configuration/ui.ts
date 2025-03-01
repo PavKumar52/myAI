@@ -1,4 +1,4 @@
-import { AI_NAME, OWNER_NAME } from "@/configuration/identity";
+import { AI_NAME, OWNER_NAME, OWNER_DESCRIPTION } from "@/configuration/identity";
 
 export const CHAT_HEADER: string = `Welcome to BlueMBA Buddy!`;
 export const MESSAGE_PLACEHOLDER: string = `Type your MBA program query here...`;
